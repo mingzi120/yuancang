@@ -4,7 +4,7 @@ Created on Mon Mar 16 16:29:07 2020
 
 @author: 张钧铭
 """
-
+#edit for github
 #alien_invasion.py
 
 
@@ -25,7 +25,7 @@ def run_game():
     
     ai_settings = Settings()
      
-    screen = pygame.display.set_mode((ai_settings.screen_width,ai_settings.screen_height))
+    screen = pygame.display.set_mode((ai_settings.screen_width, ai_settings.screen_height))
     pygame.display.set_caption("Shoot Trump")
     
     #创建play按钮
