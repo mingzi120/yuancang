@@ -1,3 +1,4 @@
-new dev branch的修改
+﻿new dev branch的修改
 使用switch切换分支并合并的操作
 Creating a new branch is quick AND simple.
+DEV edit 1
