@@ -11,6 +11,7 @@ import pygame
 from pygame.sprite import Sprite
 
 
+#test
 
 class Alien(Sprite):
     """表示单个外星人的类"""
